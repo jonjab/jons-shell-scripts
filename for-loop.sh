@@ -4,4 +4,3 @@
 
 echo "Hello world"
 
-# this should be an auto-merge
