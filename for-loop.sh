@@ -4,4 +4,3 @@
 
 echo "Hello world"
 
-# I'm gonna yell at kristi when she gets back from lunch.
