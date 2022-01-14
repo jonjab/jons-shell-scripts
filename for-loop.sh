@@ -4,4 +4,5 @@
 
 echo "Hello world"
 #this example prints hello world
+
 #attempt at automerge
